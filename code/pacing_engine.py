@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-RUN4LYF - Closed-Loop Cybernetic Pacing & Decision Engine
+RUN4FUN - Closed-Loop Cybernetic Pacing & Decision Engine
 Evaluates real-time runner biometrics, estimates physiological state,
 calculates harmonic multi-objective utility across the music library,
 and determines real-time playback & alert actuation.

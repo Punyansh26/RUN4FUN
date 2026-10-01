@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-RUN4LYF - Streamlit Cybernetic Pacing & Alert Dashboard
+RUN4FUN - Streamlit Cybernetic Pacing & Alert Dashboard
 Real-time demonstration of the Sense -> Process -> Decide -> Act embedded AI system.
 """
 
@@ -22,7 +22,7 @@ from pacing_engine import PacingEngine
 
 # Configure Streamlit page
 st.set_page_config(
-    page_title="RUN4LYF | AI Hardware & Pacing System",
+    page_title="RUN4FUN | AI Hardware & Pacing System",
     page_icon="🏃‍♂️",
     layout="wide",
     initial_sidebar_state="expanded"
@@ -268,7 +268,7 @@ curr_dec = st.session_state.decision_log[-1]
 # Hero Banner
 st.markdown("""
 <div class="hero-container">
-    <div class="hero-title">RUN4LYF: Cybernetic Bio-Pacing Engine</div>
+    <div class="hero-title">RUN4FUN: Cybernetic Bio-Pacing Engine</div>
     <div class="hero-subtitle">
         Embedded Systems & AI Hardware Prototype • Closed-Loop Rhythmic Entrainment • 
         <b>Sense → Process → Decide → Act</b>
@@ -370,6 +370,12 @@ with col_left:
 
     # Audio Player with Autoplay
     track_file = current_track.get("filepath")
+    if track_file and not os.path.isabs(track_file):
+        candidate = os.path.join(BASE_DIR, track_file)
+        if os.path.exists(candidate):
+            track_file = candidate
+        elif os.path.exists(track_file):
+            track_file = os.path.abspath(track_file)
     if track_file and os.path.exists(track_file):
         # Auto-play is enabled by default to smoothly play music while running
         st.audio(track_file, format="audio/flac", autoplay=True)

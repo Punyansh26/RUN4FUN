@@ -2,7 +2,7 @@
   {
     "id": "track_001",
     "filename": "01 - Dhurandhar The Revenge - Aari Aari.flac",
-    "filepath": "/run/media/rtx/Files/Code/Projects/fun/RUN4LYF/code/musiclib/01 - Dhurandhar The Revenge - Aari Aari.flac",
+    "filepath": "musiclib/01 - Dhurandhar The Revenge - Aari Aari.flac",
     "rel_path": "musiclib/01 - Dhurandhar The Revenge - Aari Aari.flac",
     "title": "Aari Aari",
     "artist": "Dhurandhar The Revenge",
@@ -23,7 +23,7 @@
   {
     "id": "track_002",
     "filename": "01 - Girl, I Love You (Euro's Intro).flac",
-    "filepath": "/run/media/rtx/Files/Code/Projects/fun/RUN4LYF/code/musiclib/01 - Girl, I Love You (Euro's Intro).flac",
+    "filepath": "musiclib/01 - Girl, I Love You (Euro's Intro).flac",
     "rel_path": "musiclib/01 - Girl, I Love You (Euro's Intro).flac",
     "title": "Girl, I Love You (Euro's Intro)",
     "artist": "Various Artists",
@@ -44,7 +44,7 @@
   {
     "id": "track_003",
     "filename": "02 - For A Reason.flac",
-    "filepath": "/run/media/rtx/Files/Code/Projects/fun/RUN4LYF/code/musiclib/02 - For A Reason.flac",
+    "filepath": "musiclib/02 - For A Reason.flac",
     "rel_path": "musiclib/02 - For A Reason.flac",
     "title": "For A Reason",
     "artist": "Various Artists",
@@ -65,7 +65,7 @@
   {
     "id": "track_004",
     "filename": "03 - Admirin' You (feat. Preston Pablo).flac",
-    "filepath": "/run/media/rtx/Files/Code/Projects/fun/RUN4LYF/code/musiclib/03 - Admirin' You (feat. Preston Pablo).flac",
+    "filepath": "musiclib/03 - Admirin' You (feat. Preston Pablo).flac",
     "rel_path": "musiclib/03 - Admirin' You (feat. Preston Pablo).flac",
     "title": "Admirin' You (feat. Preston Pablo)",
     "artist": "Various Artists",
@@ -86,7 +86,7 @@
   {
     "id": "track_005",
     "filename": "03 - Gehra Hua.flac",
-    "filepath": "/run/media/rtx/Files/Code/Projects/fun/RUN4LYF/code/musiclib/03 - Gehra Hua.flac",
+    "filepath": "musiclib/03 - Gehra Hua.flac",
     "rel_path": "musiclib/03 - Gehra Hua.flac",
     "title": "Gehra Hua",
     "artist": "Various Artists",
@@ -107,7 +107,7 @@
   {
     "id": "track_006",
     "filename": "03 - Jaan Se Guzarte Hain.flac",
-    "filepath": "/run/media/rtx/Files/Code/Projects/fun/RUN4LYF/code/musiclib/03 - Jaan Se Guzarte Hain.flac",
+    "filepath": "musiclib/03 - Jaan Se Guzarte Hain.flac",
     "rel_path": "musiclib/03 - Jaan Se Guzarte Hain.flac",
     "title": "Jaan Se Guzarte Hain",
     "artist": "Various Artists",
@@ -128,7 +128,7 @@
   {
     "id": "track_007",
     "filename": "04 - Boyfriend.flac",
-    "filepath": "/run/media/rtx/Files/Code/Projects/fun/RUN4LYF/code/musiclib/04 - Boyfriend.flac",
+    "filepath": "musiclib/04 - Boyfriend.flac",
     "rel_path": "musiclib/04 - Boyfriend.flac",
     "title": "Boyfriend",
     "artist": "Various Artists",
@@ -149,7 +149,7 @@
   {
     "id": "track_008",
     "filename": "04 - Jee Ni Lagda.flac",
-    "filepath": "/run/media/rtx/Files/Code/Projects/fun/RUN4LYF/code/musiclib/04 - Jee Ni Lagda.flac",
+    "filepath": "musiclib/04 - Jee Ni Lagda.flac",
     "rel_path": "musiclib/04 - Jee Ni Lagda.flac",
     "title": "Jee Ni Lagda",
     "artist": "Various Artists",
@@ -170,7 +170,7 @@
   {
     "id": "track_009",
     "filename": "04 - Tutor.flac",
-    "filepath": "/run/media/rtx/Files/Code/Projects/fun/RUN4LYF/code/musiclib/04 - Tutor.flac",
+    "filepath": "musiclib/04 - Tutor.flac",
     "rel_path": "musiclib/04 - Tutor.flac",
     "title": "Tutor",
     "artist": "Various Artists",
@@ -191,7 +191,7 @@
   {
     "id": "track_010",
     "filename": "05 - LV Sandals.flac",
-    "filepath": "/run/media/rtx/Files/Code/Projects/fun/RUN4LYF/code/musiclib/05 - LV Sandals.flac",
+    "filepath": "musiclib/05 - LV Sandals.flac",
     "rel_path": "musiclib/05 - LV Sandals.flac",
     "title": "LV Sandals",
     "artist": "Various Artists",
@@ -212,7 +212,7 @@
   {
     "id": "track_011",
     "filename": "05 - Run Down The City - Monica.flac",
-    "filepath": "/run/media/rtx/Files/Code/Projects/fun/RUN4LYF/code/musiclib/05 - Run Down The City - Monica.flac",
+    "filepath": "musiclib/05 - Run Down The City - Monica.flac",
     "rel_path": "musiclib/05 - Run Down The City - Monica.flac",
     "title": "Monica",
     "artist": "Run Down The City",
@@ -233,7 +233,7 @@
   {
     "id": "track_012",
     "filename": "06 - Champion's Anthem.flac",
-    "filepath": "/run/media/rtx/Files/Code/Projects/fun/RUN4LYF/code/musiclib/06 - Champion's Anthem.flac",
+    "filepath": "musiclib/06 - Champion's Anthem.flac",
     "rel_path": "musiclib/06 - Champion's Anthem.flac",
     "title": "Champion's Anthem",
     "artist": "Various Artists",
@@ -254,7 +254,7 @@
   {
     "id": "track_013",
     "filename": "06 - Farzi.flac",
-    "filepath": "/run/media/rtx/Files/Code/Projects/fun/RUN4LYF/code/musiclib/06 - Farzi.flac",
+    "filepath": "musiclib/06 - Farzi.flac",
     "rel_path": "musiclib/06 - Farzi.flac",
     "title": "Farzi",
     "artist": "Various Artists",
@@ -275,7 +275,7 @@
   {
     "id": "track_014",
     "filename": "07 - Softly.flac",
-    "filepath": "/run/media/rtx/Files/Code/Projects/fun/RUN4LYF/code/musiclib/07 - Softly.flac",
+    "filepath": "musiclib/07 - Softly.flac",
     "rel_path": "musiclib/07 - Softly.flac",
     "title": "Softly",
     "artist": "Various Artists",
@@ -296,7 +296,7 @@
   {
     "id": "track_015",
     "filename": "10 - MF Gabhru!.flac",
-    "filepath": "/run/media/rtx/Files/Code/Projects/fun/RUN4LYF/code/musiclib/10 - MF Gabhru!.flac",
+    "filepath": "musiclib/10 - MF Gabhru!.flac",
     "rel_path": "musiclib/10 - MF Gabhru!.flac",
     "title": "MF Gabhru!",
     "artist": "Various Artists",
@@ -317,7 +317,7 @@
   {
     "id": "track_016",
     "filename": "10 - Naal Nachna.flac",
-    "filepath": "/run/media/rtx/Files/Code/Projects/fun/RUN4LYF/code/musiclib/10 - Naal Nachna.flac",
+    "filepath": "musiclib/10 - Naal Nachna.flac",
     "rel_path": "musiclib/10 - Naal Nachna.flac",
     "title": "Naal Nachna",
     "artist": "Various Artists",
@@ -338,7 +338,7 @@
   {
     "id": "track_017",
     "filename": "10 - Rottweiler.flac",
-    "filepath": "/run/media/rtx/Files/Code/Projects/fun/RUN4LYF/code/musiclib/10 - Rottweiler.flac",
+    "filepath": "musiclib/10 - Rottweiler.flac",
     "rel_path": "musiclib/10 - Rottweiler.flac",
     "title": "Rottweiler",
     "artist": "Various Artists",
@@ -359,7 +359,7 @@
   {
     "id": "track_018",
     "filename": "Billie Eilish - BIRDS OF A FEATHER.flac",
-    "filepath": "/run/media/rtx/Files/Code/Projects/fun/RUN4LYF/code/musiclib/Billie Eilish - BIRDS OF A FEATHER.flac",
+    "filepath": "musiclib/Billie Eilish - BIRDS OF A FEATHER.flac",
     "rel_path": "musiclib/Billie Eilish - BIRDS OF A FEATHER.flac",
     "title": "BIRDS OF A FEATHER",
     "artist": "Billie Eilish",
@@ -380,7 +380,7 @@
   {
     "id": "track_019",
     "filename": "Billie Eilish - Everybody Dies.flac",
-    "filepath": "/run/media/rtx/Files/Code/Projects/fun/RUN4LYF/code/musiclib/Billie Eilish - Everybody Dies.flac",
+    "filepath": "musiclib/Billie Eilish - Everybody Dies.flac",
     "rel_path": "musiclib/Billie Eilish - Everybody Dies.flac",
     "title": "Everybody Dies",
     "artist": "Billie Eilish",
@@ -401,7 +401,7 @@
   {
     "id": "track_020",
     "filename": "Billie Eilish - Happier Than Ever.flac",
-    "filepath": "/run/media/rtx/Files/Code/Projects/fun/RUN4LYF/code/musiclib/Billie Eilish - Happier Than Ever.flac",
+    "filepath": "musiclib/Billie Eilish - Happier Than Ever.flac",
     "rel_path": "musiclib/Billie Eilish - Happier Than Ever.flac",
     "title": "Happier Than Ever",
     "artist": "Billie Eilish",
@@ -422,7 +422,7 @@
   {
     "id": "track_021",
     "filename": "Billie Eilish - WILDFLOWER.flac",
-    "filepath": "/run/media/rtx/Files/Code/Projects/fun/RUN4LYF/code/musiclib/Billie Eilish - WILDFLOWER.flac",
+    "filepath": "musiclib/Billie Eilish - WILDFLOWER.flac",
     "rel_path": "musiclib/Billie Eilish - WILDFLOWER.flac",
     "title": "WILDFLOWER",
     "artist": "Billie Eilish",

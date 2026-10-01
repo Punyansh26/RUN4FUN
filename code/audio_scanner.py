@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-RUN4LYF - Audio Library Feature Extractor
+RUN4FUN - Audio Library Feature Extractor
 Extracts acoustic features (BPM, half-time/double-time tempo, RMS energy,
 spectral centroid, and mood tags) from music tracks for real-time pacing.
 """
@@ -154,7 +154,7 @@ def scan_library(music_dir=MUSIC_DIR, output_path=OUTPUT_JSON):
             track_entry = {
                 "id": f"track_{idx:03d}",
                 "filename": filename,
-                "filepath": filepath,
+                "filepath": rel_path,
                 "rel_path": rel_path,
                 "title": title,
                 "artist": artist,

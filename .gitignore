@@ -1,2 +1,4 @@
 documentation
 idea
+__pycache__/
+*.pyc

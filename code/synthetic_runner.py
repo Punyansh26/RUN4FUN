@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-RUN4LYF - Synthetic Biometric Runner Telemetry Engine
+RUN4FUN - Synthetic Biometric Runner Telemetry Engine
 Simulates realistic human running biomechanics:
 - Cadence (SPM) with stride jitter
 - Heart rate with cardiac drift & lag

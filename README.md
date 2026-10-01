@@ -1,4 +1,4 @@
-# RUN4LYF: Intelligent Bio-Kinematic Pacing & Alert Engine
+# RUN4FUN: Intelligent Bio-Kinematic Pacing & Alert Engine
 ### A Closed-Loop Cybernetic System for Biomechanical Music Adaptation & Athlete Safety
 **Embedded Systems & Robotics Intern – AI Hardware Technical Assignment**
 
@@ -22,7 +22,7 @@ Conventional music players (Spotify, Apple Music) treat running as a static shuf
 2. **Cardiac Drift**: Over prolonged workouts, dehydration and core heat induce *cardiac drift*—heart rate creeps into Zone 4/5 danger thresholds even as cadence declines.
 3. **The "Half-Time Trap Gap"**: Traditional running algorithms only look for $BPM \approx SPM$. If a runner loves hip-hop, trap, Punjabi drill, or indie ballads (produced at 80–95 BPM), standard apps reject them. In reality, striking the ground on every 8th note (half-time) of an 85 BPM beat equates to a **170 SPM cadence**—a flawless auditory-motor match!
 
-**RUN4LYF** (Run For Life) was conceived out of personal curiosity to design a small, intelligent, wearable embedded system that treats music not as passive audio, but as an **active acoustic actuator** within a classical **Sense $\rightarrow$ Process $\rightarrow$ Decide $\rightarrow$ Act** cybernetic control loop.
+**RUN4FUN** (Run For Fun) was conceived out of personal curiosity to design a small, intelligent, wearable embedded system that treats music not as passive audio, but as an **active acoustic actuator** within a classical **Sense $\rightarrow$ Process $\rightarrow$ Decide $\rightarrow$ Act** cybernetic control loop.
 
 ---
 
@@ -135,7 +135,7 @@ The prototype features a dark-mode athletic cybernetic dashboard (`code/app.py`)
 
 ```
 +-----------------------------------------------------------------------------------+
-|  RUN4LYF: Cybernetic Bio-Pacing Engine                                           |
+|  RUN4FUN: Cybernetic Bio-Pacing Engine                                           |
 |  Sense -> Process -> Decide -> Act • Closed-Loop Rhythmic Entrainment             |
 +-----------------------------------------------------------------------------------+
 | [SPM: 162.4]  [HR: 148 BPM (Z2)]  [Pace: 5:41 min/km]  [Distance: 2.4km]  [14:22] |
@@ -172,7 +172,7 @@ The prototype features a dark-mode athletic cybernetic dashboard (`code/app.py`)
 ## 📂 6. Repository Structure
 
 ```
-RUN4LYF/
+RUN4FUN/
 ├── code/
 │   ├── Data/musiclib/              # 21 high-fidelity FLAC audio tracks across genres
 │   ├── track_catalog.json          # Precomputed MIR acoustic feature cache (BPM, Energy, Mood)
@@ -187,10 +187,10 @@ RUN4LYF/
 │   ├── 03_HARDWARE_AND_EMBEDDED_DESIGN.md # BOM selection, schematics, pinout matrix & power budget
 │   ├── 04_ALGORITHMS_AND_MATHEMATICS.md   # Derivations for autocorrelation, EMA, harmonic folding
 │   ├── 05_SOFTWARE_AND_LIBRARIES.md       # Code walkthrough, library choices, performance optimizations
-│   └── 06_INTERVIEW_PREP_AND_TRADE_OFFS.md # Comprehensive interview cheat sheet (15 technical Q&As)
-├── RUN4LYF_Embedded_Robotics_Assignment.html # Semantic HTML source of the formal submission report
-├── RUN4LYF_Embedded_Robotics_Assignment.pdf  # Exact 4-page publication assignment report
-├── YourName_Embedded_Robotics_Assignment.pdf # Submission copy (ready to rename with candidate name)
+│   ├── 06_INTERVIEW_PREP_AND_TRADE_OFFS.md # Comprehensive interview cheat sheet (15 technical Q&As)
+│   ├── RUN4FUN_Embedded_Robotics_Assignment.html # Semantic HTML source of the formal submission report
+│   ├── RUN4FUN_Embedded_Robotics_Assignment.pdf  # Exact 4-page publication assignment report
+│   └── YourName_Embedded_Robotics_Assignment.pdf # Submission copy (ready to rename with candidate name)
 └── README.md                       # Master technical documentation
 ```
 
@@ -253,9 +253,9 @@ When discussing this project with technical interviewers, highlight these key de
 ---
 
 ## 📄 9. Formal Assignment Submission Deliverables
-
-- **Official PDF Report**: [`RUN4LYF_Embedded_Robotics_Assignment.pdf`](file:///run/media/rtx/Files/Code/Projects/fun/RUN4LYF/RUN4LYF_Embedded_Robotics_Assignment.pdf)
-- **Submission Naming Requirement**: [`YourName_Embedded_Robotics_Assignment.pdf`](file:///run/media/rtx/Files/Code/Projects/fun/RUN4LYF/YourName_Embedded_Robotics_Assignment.pdf)
-- **Deep Technical Dossier**: [`documentation/`](file:///run/media/rtx/Files/Code/Projects/fun/RUN4LYF/documentation/)
+ 
+- **Official PDF Report**: [`RUN4FUN_Embedded_Robotics_Assignment.pdf`](documentation/RUN4FUN_Embedded_Robotics_Assignment.pdf)
+- **Submission Naming Requirement**: [`YourName_Embedded_Robotics_Assignment.pdf`](documentation/YourName_Embedded_Robotics_Assignment.pdf)
+- **Deep Technical Dossier**: [`documentation/`](documentation/)
 
 *Designed and engineered with curiosity, scientific rigor, and athletic passion.*

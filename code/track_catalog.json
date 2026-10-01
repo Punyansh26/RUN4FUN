@@ -1,0 +1,443 @@
+[
+  {
+    "id": "track_001",
+    "filename": "01 - Dhurandhar The Revenge - Aari Aari.flac",
+    "filepath": "/run/media/rtx/Files/Code/Projects/fun/RUN4LYF/code/musiclib/01 - Dhurandhar The Revenge - Aari Aari.flac",
+    "rel_path": "musiclib/01 - Dhurandhar The Revenge - Aari Aari.flac",
+    "title": "Aari Aari",
+    "artist": "Dhurandhar The Revenge",
+    "bpm": 140.6,
+    "half_time_bpm": 70.3,
+    "double_time_bpm": 140.6,
+    "energy": 0.5,
+    "brightness": 0.65,
+    "duration_sec": 210.1,
+    "mood_scores": {
+      "Chill Flow": 0.62,
+      "Focused Pacing": 0.54,
+      "Beast Mode": 0.54,
+      "Recovery Jog": 0.6
+    },
+    "primary_mood": "Chill Flow"
+  },
+  {
+    "id": "track_002",
+    "filename": "01 - Girl, I Love You (Euro's Intro).flac",
+    "filepath": "/run/media/rtx/Files/Code/Projects/fun/RUN4LYF/code/musiclib/01 - Girl, I Love You (Euro's Intro).flac",
+    "rel_path": "musiclib/01 - Girl, I Love You (Euro's Intro).flac",
+    "title": "Girl, I Love You (Euro's Intro)",
+    "artist": "Various Artists",
+    "bpm": 117.2,
+    "half_time_bpm": 117.2,
+    "double_time_bpm": 117.2,
+    "energy": 0.44,
+    "brightness": 0.32,
+    "duration_sec": 63.0,
+    "mood_scores": {
+      "Chill Flow": 0.86,
+      "Focused Pacing": 0.5,
+      "Beast Mode": 0.41,
+      "Recovery Jog": 0.66
+    },
+    "primary_mood": "Chill Flow"
+  },
+  {
+    "id": "track_003",
+    "filename": "02 - For A Reason.flac",
+    "filepath": "/run/media/rtx/Files/Code/Projects/fun/RUN4LYF/code/musiclib/02 - For A Reason.flac",
+    "rel_path": "musiclib/02 - For A Reason.flac",
+    "title": "For A Reason",
+    "artist": "Various Artists",
+    "bpm": 90.7,
+    "half_time_bpm": 90.7,
+    "double_time_bpm": 181.4,
+    "energy": 0.63,
+    "brightness": 0.71,
+    "duration_sec": 180.0,
+    "mood_scores": {
+      "Chill Flow": 0.67,
+      "Focused Pacing": 0.62,
+      "Beast Mode": 0.65,
+      "Recovery Jog": 0.47
+    },
+    "primary_mood": "Chill Flow"
+  },
+  {
+    "id": "track_004",
+    "filename": "03 - Admirin' You (feat. Preston Pablo).flac",
+    "filepath": "/run/media/rtx/Files/Code/Projects/fun/RUN4LYF/code/musiclib/03 - Admirin' You (feat. Preston Pablo).flac",
+    "rel_path": "musiclib/03 - Admirin' You (feat. Preston Pablo).flac",
+    "title": "Admirin' You (feat. Preston Pablo)",
+    "artist": "Various Artists",
+    "bpm": 97.0,
+    "half_time_bpm": 97.0,
+    "double_time_bpm": 194.0,
+    "energy": 0.67,
+    "brightness": 0.67,
+    "duration_sec": 214.8,
+    "mood_scores": {
+      "Chill Flow": 0.63,
+      "Focused Pacing": 0.64,
+      "Beast Mode": 0.67,
+      "Recovery Jog": 0.43
+    },
+    "primary_mood": "Beast Mode"
+  },
+  {
+    "id": "track_005",
+    "filename": "03 - Gehra Hua.flac",
+    "filepath": "/run/media/rtx/Files/Code/Projects/fun/RUN4LYF/code/musiclib/03 - Gehra Hua.flac",
+    "rel_path": "musiclib/03 - Gehra Hua.flac",
+    "title": "Gehra Hua",
+    "artist": "Various Artists",
+    "bpm": 123.0,
+    "half_time_bpm": 61.5,
+    "double_time_bpm": 123.0,
+    "energy": 0.34,
+    "brightness": 0.57,
+    "duration_sec": 362.4,
+    "mood_scores": {
+      "Chill Flow": 0.96,
+      "Focused Pacing": 0.44,
+      "Beast Mode": 0.4,
+      "Recovery Jog": 0.76
+    },
+    "primary_mood": "Chill Flow"
+  },
+  {
+    "id": "track_006",
+    "filename": "03 - Jaan Se Guzarte Hain.flac",
+    "filepath": "/run/media/rtx/Files/Code/Projects/fun/RUN4LYF/code/musiclib/03 - Jaan Se Guzarte Hain.flac",
+    "rel_path": "musiclib/03 - Jaan Se Guzarte Hain.flac",
+    "title": "Jaan Se Guzarte Hain",
+    "artist": "Various Artists",
+    "bpm": 108.2,
+    "half_time_bpm": 108.2,
+    "double_time_bpm": 216.4,
+    "energy": 0.38,
+    "brightness": 0.55,
+    "duration_sec": 332.1,
+    "mood_scores": {
+      "Chill Flow": 0.92,
+      "Focused Pacing": 0.47,
+      "Beast Mode": 0.42,
+      "Recovery Jog": 0.72
+    },
+    "primary_mood": "Chill Flow"
+  },
+  {
+    "id": "track_007",
+    "filename": "04 - Boyfriend.flac",
+    "filepath": "/run/media/rtx/Files/Code/Projects/fun/RUN4LYF/code/musiclib/04 - Boyfriend.flac",
+    "rel_path": "musiclib/04 - Boyfriend.flac",
+    "title": "Boyfriend",
+    "artist": "Various Artists",
+    "bpm": 97.0,
+    "half_time_bpm": 97.0,
+    "double_time_bpm": 194.0,
+    "energy": 0.73,
+    "brightness": 0.67,
+    "duration_sec": 160.8,
+    "mood_scores": {
+      "Chill Flow": 0.57,
+      "Focused Pacing": 0.68,
+      "Beast Mode": 0.71,
+      "Recovery Jog": 0.37
+    },
+    "primary_mood": "Beast Mode"
+  },
+  {
+    "id": "track_008",
+    "filename": "04 - Jee Ni Lagda.flac",
+    "filepath": "/run/media/rtx/Files/Code/Projects/fun/RUN4LYF/code/musiclib/04 - Jee Ni Lagda.flac",
+    "rel_path": "musiclib/04 - Jee Ni Lagda.flac",
+    "title": "Jee Ni Lagda",
+    "artist": "Various Artists",
+    "bpm": 93.8,
+    "half_time_bpm": 93.8,
+    "double_time_bpm": 187.6,
+    "energy": 0.5,
+    "brightness": 0.79,
+    "duration_sec": 139.4,
+    "mood_scores": {
+      "Chill Flow": 0.8,
+      "Focused Pacing": 0.54,
+      "Beast Mode": 0.57,
+      "Recovery Jog": 0.6
+    },
+    "primary_mood": "Chill Flow"
+  },
+  {
+    "id": "track_009",
+    "filename": "04 - Tutor.flac",
+    "filepath": "/run/media/rtx/Files/Code/Projects/fun/RUN4LYF/code/musiclib/04 - Tutor.flac",
+    "rel_path": "musiclib/04 - Tutor.flac",
+    "title": "Tutor",
+    "artist": "Various Artists",
+    "bpm": 97.0,
+    "half_time_bpm": 97.0,
+    "double_time_bpm": 194.0,
+    "energy": 0.81,
+    "brightness": 0.59,
+    "duration_sec": 200.3,
+    "mood_scores": {
+      "Chill Flow": 0.49,
+      "Focused Pacing": 0.73,
+      "Beast Mode": 0.76,
+      "Recovery Jog": 0.29
+    },
+    "primary_mood": "Beast Mode"
+  },
+  {
+    "id": "track_010",
+    "filename": "05 - LV Sandals.flac",
+    "filepath": "/run/media/rtx/Files/Code/Projects/fun/RUN4LYF/code/musiclib/05 - LV Sandals.flac",
+    "rel_path": "musiclib/05 - LV Sandals.flac",
+    "title": "LV Sandals",
+    "artist": "Various Artists",
+    "bpm": 127.8,
+    "half_time_bpm": 63.9,
+    "double_time_bpm": 127.8,
+    "energy": 0.94,
+    "brightness": 0.61,
+    "duration_sec": 111.2,
+    "mood_scores": {
+      "Chill Flow": 0.18,
+      "Focused Pacing": 0.8,
+      "Beast Mode": 0.86,
+      "Recovery Jog": 0.16
+    },
+    "primary_mood": "Beast Mode"
+  },
+  {
+    "id": "track_011",
+    "filename": "05 - Run Down The City - Monica.flac",
+    "filepath": "/run/media/rtx/Files/Code/Projects/fun/RUN4LYF/code/musiclib/05 - Run Down The City - Monica.flac",
+    "rel_path": "musiclib/05 - Run Down The City - Monica.flac",
+    "title": "Monica",
+    "artist": "Run Down The City",
+    "bpm": 136.0,
+    "half_time_bpm": 68.0,
+    "double_time_bpm": 136.0,
+    "energy": 0.88,
+    "brightness": 0.66,
+    "duration_sec": 140.8,
+    "mood_scores": {
+      "Chill Flow": 0.24,
+      "Focused Pacing": 0.77,
+      "Beast Mode": 0.83,
+      "Recovery Jog": 0.22
+    },
+    "primary_mood": "Beast Mode"
+  },
+  {
+    "id": "track_012",
+    "filename": "06 - Champion's Anthem.flac",
+    "filepath": "/run/media/rtx/Files/Code/Projects/fun/RUN4LYF/code/musiclib/06 - Champion's Anthem.flac",
+    "rel_path": "musiclib/06 - Champion's Anthem.flac",
+    "title": "Champion's Anthem",
+    "artist": "Various Artists",
+    "bpm": 140.6,
+    "half_time_bpm": 70.3,
+    "double_time_bpm": 140.6,
+    "energy": 0.74,
+    "brightness": 0.79,
+    "duration_sec": 204.5,
+    "mood_scores": {
+      "Chill Flow": 0.38,
+      "Focused Pacing": 0.68,
+      "Beast Mode": 0.75,
+      "Recovery Jog": 0.36
+    },
+    "primary_mood": "Beast Mode"
+  },
+  {
+    "id": "track_013",
+    "filename": "06 - Farzi.flac",
+    "filepath": "/run/media/rtx/Files/Code/Projects/fun/RUN4LYF/code/musiclib/06 - Farzi.flac",
+    "rel_path": "musiclib/06 - Farzi.flac",
+    "title": "Farzi",
+    "artist": "Various Artists",
+    "bpm": 127.8,
+    "half_time_bpm": 63.9,
+    "double_time_bpm": 127.8,
+    "energy": 0.76,
+    "brightness": 0.64,
+    "duration_sec": 177.9,
+    "mood_scores": {
+      "Chill Flow": 0.36,
+      "Focused Pacing": 0.7,
+      "Beast Mode": 0.73,
+      "Recovery Jog": 0.34
+    },
+    "primary_mood": "Beast Mode"
+  },
+  {
+    "id": "track_014",
+    "filename": "07 - Softly.flac",
+    "filepath": "/run/media/rtx/Files/Code/Projects/fun/RUN4LYF/code/musiclib/07 - Softly.flac",
+    "rel_path": "musiclib/07 - Softly.flac",
+    "title": "Softly",
+    "artist": "Various Artists",
+    "bpm": 93.8,
+    "half_time_bpm": 93.8,
+    "double_time_bpm": 187.6,
+    "energy": 0.52,
+    "brightness": 0.68,
+    "duration_sec": 155.2,
+    "mood_scores": {
+      "Chill Flow": 0.78,
+      "Focused Pacing": 0.55,
+      "Beast Mode": 0.56,
+      "Recovery Jog": 0.58
+    },
+    "primary_mood": "Chill Flow"
+  },
+  {
+    "id": "track_015",
+    "filename": "10 - MF Gabhru!.flac",
+    "filepath": "/run/media/rtx/Files/Code/Projects/fun/RUN4LYF/code/musiclib/10 - MF Gabhru!.flac",
+    "rel_path": "musiclib/10 - MF Gabhru!.flac",
+    "title": "MF Gabhru!",
+    "artist": "Various Artists",
+    "bpm": 97.0,
+    "half_time_bpm": 97.0,
+    "double_time_bpm": 194.0,
+    "energy": 0.68,
+    "brightness": 0.87,
+    "duration_sec": 200.4,
+    "mood_scores": {
+      "Chill Flow": 0.62,
+      "Focused Pacing": 0.65,
+      "Beast Mode": 0.73,
+      "Recovery Jog": 0.42
+    },
+    "primary_mood": "Beast Mode"
+  },
+  {
+    "id": "track_016",
+    "filename": "10 - Naal Nachna.flac",
+    "filepath": "/run/media/rtx/Files/Code/Projects/fun/RUN4LYF/code/musiclib/10 - Naal Nachna.flac",
+    "rel_path": "musiclib/10 - Naal Nachna.flac",
+    "title": "Naal Nachna",
+    "artist": "Various Artists",
+    "bpm": 143.6,
+    "half_time_bpm": 71.8,
+    "double_time_bpm": 143.6,
+    "energy": 0.62,
+    "brightness": 0.56,
+    "duration_sec": 155.1,
+    "mood_scores": {
+      "Chill Flow": 0.5,
+      "Focused Pacing": 0.61,
+      "Beast Mode": 0.6,
+      "Recovery Jog": 0.48
+    },
+    "primary_mood": "Focused Pacing"
+  },
+  {
+    "id": "track_017",
+    "filename": "10 - Rottweiler.flac",
+    "filepath": "/run/media/rtx/Files/Code/Projects/fun/RUN4LYF/code/musiclib/10 - Rottweiler.flac",
+    "rel_path": "musiclib/10 - Rottweiler.flac",
+    "title": "Rottweiler",
+    "artist": "Various Artists",
+    "bpm": 140.6,
+    "half_time_bpm": 70.3,
+    "double_time_bpm": 140.6,
+    "energy": 1.0,
+    "brightness": 0.65,
+    "duration_sec": 96.0,
+    "mood_scores": {
+      "Chill Flow": 0.12,
+      "Focused Pacing": 0.84,
+      "Beast Mode": 0.91,
+      "Recovery Jog": 0.1
+    },
+    "primary_mood": "Beast Mode"
+  },
+  {
+    "id": "track_018",
+    "filename": "Billie Eilish - BIRDS OF A FEATHER.flac",
+    "filepath": "/run/media/rtx/Files/Code/Projects/fun/RUN4LYF/code/musiclib/Billie Eilish - BIRDS OF A FEATHER.flac",
+    "rel_path": "musiclib/Billie Eilish - BIRDS OF A FEATHER.flac",
+    "title": "BIRDS OF A FEATHER",
+    "artist": "Billie Eilish",
+    "bpm": 103.4,
+    "half_time_bpm": 103.4,
+    "double_time_bpm": 206.8,
+    "energy": 0.73,
+    "brightness": 0.45,
+    "duration_sec": 210.4,
+    "mood_scores": {
+      "Chill Flow": 0.57,
+      "Focused Pacing": 0.68,
+      "Beast Mode": 0.66,
+      "Recovery Jog": 0.37
+    },
+    "primary_mood": "Focused Pacing"
+  },
+  {
+    "id": "track_019",
+    "filename": "Billie Eilish - Everybody Dies.flac",
+    "filepath": "/run/media/rtx/Files/Code/Projects/fun/RUN4LYF/code/musiclib/Billie Eilish - Everybody Dies.flac",
+    "rel_path": "musiclib/Billie Eilish - Everybody Dies.flac",
+    "title": "Everybody Dies",
+    "artist": "Billie Eilish",
+    "bpm": 123.0,
+    "half_time_bpm": 61.5,
+    "double_time_bpm": 123.0,
+    "energy": 0.74,
+    "brightness": 0.22,
+    "duration_sec": 206.6,
+    "mood_scores": {
+      "Chill Flow": 0.56,
+      "Focused Pacing": 0.68,
+      "Beast Mode": 0.61,
+      "Recovery Jog": 0.36
+    },
+    "primary_mood": "Focused Pacing"
+  },
+  {
+    "id": "track_020",
+    "filename": "Billie Eilish - Happier Than Ever.flac",
+    "filepath": "/run/media/rtx/Files/Code/Projects/fun/RUN4LYF/code/musiclib/Billie Eilish - Happier Than Ever.flac",
+    "rel_path": "musiclib/Billie Eilish - Happier Than Ever.flac",
+    "title": "Happier Than Ever",
+    "artist": "Billie Eilish",
+    "bpm": 99.4,
+    "half_time_bpm": 99.4,
+    "double_time_bpm": 198.8,
+    "energy": 0.46,
+    "brightness": 0.21,
+    "duration_sec": 298.9,
+    "mood_scores": {
+      "Chill Flow": 0.84,
+      "Focused Pacing": 0.52,
+      "Beast Mode": 0.4,
+      "Recovery Jog": 0.64
+    },
+    "primary_mood": "Chill Flow"
+  },
+  {
+    "id": "track_021",
+    "filename": "Billie Eilish - WILDFLOWER.flac",
+    "filepath": "/run/media/rtx/Files/Code/Projects/fun/RUN4LYF/code/musiclib/Billie Eilish - WILDFLOWER.flac",
+    "rel_path": "musiclib/Billie Eilish - WILDFLOWER.flac",
+    "title": "WILDFLOWER",
+    "artist": "Billie Eilish",
+    "bpm": 99.4,
+    "half_time_bpm": 99.4,
+    "double_time_bpm": 198.8,
+    "energy": 0.28,
+    "brightness": 0.4,
+    "duration_sec": 261.5,
+    "mood_scores": {
+      "Chill Flow": 0.99,
+      "Focused Pacing": 0.41,
+      "Beast Mode": 0.31,
+      "Recovery Jog": 0.82
+    },
+    "primary_mood": "Chill Flow"
+  }
+]

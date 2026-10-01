@@ -14,8 +14,14 @@ import soundfile as sf
 import librosa
 from scipy.signal import decimate
 
-MUSIC_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "musiclib")
-OUTPUT_JSON = os.path.join(os.path.dirname(os.path.abspath(__file__)), "track_catalog.json")
+_base_dir = os.path.dirname(os.path.abspath(__file__))
+_musiclib_dir = os.path.join(_base_dir, "musiclib")
+if os.path.isdir(_musiclib_dir) and len(os.listdir(_musiclib_dir)) > 0:
+    MUSIC_DIR = _musiclib_dir
+else:
+    MUSIC_DIR = os.path.join(_base_dir, "Data", "musiclib")
+
+OUTPUT_JSON = os.path.join(_base_dir, "track_catalog.json")
 
 
 def clean_track_metadata(filename):

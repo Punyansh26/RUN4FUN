@@ -181,17 +181,9 @@ RUN4FUN/
 │   ├── pacing_engine.py            # Closed-loop cybernetic decision algorithm & 20s staging buffer
 │   ├── app.py                      # Interactive Streamlit cybernetic web dashboard
 │   └── __init__.py                 # Python package descriptor
-├── documentation/
-│   ├── 01_PROBLEM_AND_USE_CASE.md  # Detailed sports science, AMS neurology, and target personas
-│   ├── 02_SYSTEM_ARCHITECTURE.md   # Sense-Process-Decide-Act data flows, timing & latency budget
-│   ├── 03_HARDWARE_AND_EMBEDDED_DESIGN.md # BOM selection, schematics, pinout matrix & power budget
-│   ├── 04_ALGORITHMS_AND_MATHEMATICS.md   # Derivations for autocorrelation, EMA, harmonic folding
-│   ├── 05_SOFTWARE_AND_LIBRARIES.md       # Code walkthrough, library choices, performance optimizations
-│   ├── 06_INTERVIEW_PREP_AND_TRADE_OFFS.md # Comprehensive interview cheat sheet (15 technical Q&As)
-│   ├── RUN4FUN_Embedded_Robotics_Assignment.html # Semantic HTML source of the formal submission report
-│   ├── RUN4FUN_Embedded_Robotics_Assignment.pdf  # Exact 4-page publication assignment report
-│   └── YourName_Embedded_Robotics_Assignment.pdf # Submission copy (ready to rename with candidate name)
-└── README.md                       # Master technical documentation
+├── requirements.txt                # Python runtime dependencies
+├── .gitignore                      # Git ignore patterns
+└── README.md                       # Master technical documentation & system design
 ```
 
 ---
@@ -200,18 +192,33 @@ RUN4FUN/
 
 ### Prerequisites
 - Python 3.10+
-- Conda environment or virtual environment with `streamlit`, `librosa`, `soundfile`, `scipy`, `numpy`
+- Virtual environment or conda environment
 
-### 1. Launch the Interactive Web Dashboard:
+### 1. Clone & Install Dependencies:
 ```bash
-# Using conda environment:
-/home/rtx/miniconda3/envs/minor/bin/streamlit run code/app.py
+git clone https://github.com/Punyansh26/RUN4LYF.git
+cd RUN4LYF
+
+# Optional: Create and activate a virtual environment
+python3 -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+
+# Install required packages
+pip install -r requirements.txt
+```
+
+### 2. Launch the Interactive Web Dashboard:
+```bash
+streamlit run code/app.py
 ```
 Open **`http://localhost:8501`** in your browser.
+- Click **▶️ Run / Pause Workout** in the left sidebar to start live simulation.
+- Music will autoplay and automatically synchronize with the simulated runner's cadence.
+- Test perturbation buttons (Hill Incline, Sprint Finish, Fatigue Spurt, Stumble) to watch real-time state machine transitions and 20s DJ transition buffers!
 
-### 2. Run the Pacing Engine Integration Test:
+### 3. Run the Pacing Engine Integration Test:
 ```bash
-/home/rtx/miniconda3/envs/minor/bin/python -c "
+python -c "
 import sys, json
 sys.path.insert(0, 'code')
 from synthetic_runner import SyntheticRunner
@@ -230,9 +237,9 @@ for t in range(5):
 "
 ```
 
-### 3. Re-index Audio Library (Optional):
+### 4. Re-index Audio Library (Optional):
 ```bash
-/home/rtx/miniconda3/envs/minor/bin/python code/audio_scanner.py
+python code/audio_scanner.py
 ```
 
 ---
@@ -252,10 +259,13 @@ When discussing this project with technical interviewers, highlight these key de
 
 ---
 
-## 📄 9. Formal Assignment Submission Deliverables
- 
-- **Official PDF Report**: [`RUN4FUN_Embedded_Robotics_Assignment.pdf`](documentation/RUN4FUN_Embedded_Robotics_Assignment.pdf)
-- **Submission Naming Requirement**: [`YourName_Embedded_Robotics_Assignment.pdf`](documentation/YourName_Embedded_Robotics_Assignment.pdf)
-- **Deep Technical Dossier**: [`documentation/`](documentation/)
+## 📄 9. Project Deliverables & Submission Scope
+
+This repository provides an end-to-end, reproducible implementation of the **Sense $\rightarrow$ Process $\rightarrow$ Decide $\rightarrow$ Act** cybernetic loop:
+- **Interactive Prototype**: Fully functional Streamlit simulation dashboard with real FLAC audio entrainment ([`code/app.py`](code/app.py)).
+- **Acoustic Intelligence**: Precomputed MIR feature catalog with octave candidate folding ([`code/track_catalog.json`](code/track_catalog.json)).
+- **Bio-Kinematic Sim**: Biomechanically accurate runner telemetry stream ([`code/synthetic_runner.py`](code/synthetic_runner.py)).
+- **Closed-Loop Engine**: Multi-objective utility algorithm with 20s minimum playback and staging buffers ([`code/pacing_engine.py`](code/pacing_engine.py)).
+- **Master Documentation**: Complete technical architecture, hardware BOM, sensor fusion theory, and interview cheat sheet contained in this master document.
 
 *Designed and engineered with curiosity, scientific rigor, and athletic passion.*

@@ -371,12 +371,19 @@ with col_left:
     # Audio Player with Autoplay
     track_file = current_track.get("filepath")
     if track_file and not os.path.isabs(track_file):
-        candidate = os.path.join(BASE_DIR, track_file)
-        if os.path.exists(candidate):
-            track_file = candidate
-        elif os.path.exists(track_file):
-            track_file = os.path.abspath(track_file)
-    if track_file and os.path.exists(track_file):
+        filename = os.path.basename(track_file)
+        candidates = [
+            os.path.join(BASE_DIR, track_file),
+            os.path.join(BASE_DIR, "Data", track_file),
+            os.path.join(BASE_DIR, "Data", "musiclib", filename),
+            os.path.join(BASE_DIR, "musiclib", filename),
+            os.path.abspath(track_file)
+        ]
+        for cand in candidates:
+            if os.path.exists(cand) and os.path.isfile(cand):
+                track_file = cand
+                break
+    if track_file and os.path.exists(track_file) and os.path.isfile(track_file):
         # Auto-play is enabled by default to smoothly play music while running
         st.audio(track_file, format="audio/flac", autoplay=True)
     else:

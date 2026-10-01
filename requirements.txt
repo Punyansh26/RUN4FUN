@@ -1,0 +1,9 @@
+# RUN4FUN: Intelligent Bio-Kinematic Pacing & Alert Engine
+# Python runtime dependencies
+
+streamlit>=1.35.0
+librosa>=0.10.0
+soundfile>=0.12.0
+scipy>=1.10.0
+numpy>=1.24.0
+pandas>=1.5.0

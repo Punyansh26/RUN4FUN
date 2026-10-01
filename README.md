@@ -196,8 +196,8 @@ RUN4FUN/
 
 ### 1. Clone & Install Dependencies:
 ```bash
-git clone https://github.com/Punyansh26/RUN4LYF.git
-cd RUN4LYF
+git clone https://github.com/Punyansh26/RUN4FUN.git
+cd RUN4FUN
 
 # Optional: Create and activate a virtual environment
 python3 -m venv venv
